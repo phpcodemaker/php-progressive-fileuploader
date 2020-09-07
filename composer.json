@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/php-progressive-fileuploader",
+  "description": "Simple PHP file uploader with progress bar. Live updates on upload progress",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Karthikeyan C",
+      "email": "karthikn.php@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "*"
+  }
+}
